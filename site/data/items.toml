@@ -1,0 +1,131 @@
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = '
+<p style="text-align:justify; ma">
+    The fast advances of computer and sensor technologies have led researchers and artists to develop new opportunities for human expression through the design of novel digital musical instruments (DMIs) and interactive sound systems.
+</p>
+                            <p style="text-align:justify; margin-left: 40px; margin-right: 40px">
+                                One of the most critical challenges faced by designers, researchers and practitioners has been to account for <span style="font-weight:800">learning expertise through their instruments or systems</span>. It is indeed far from obvious how performers could develop expert skills in novel DMIs or how one could design DMIs that would facilitate complex motor skill learning, but also how interactive sound systems could generally benefit human learning, human development and well-being. 
+                            </p>
+                            <p style="text-align:justify; margin-left: 40px; margin-right: 40px">
+                                In this workshop we aim to bring together <span style="font-weight:800">researchers</span>, <span style="font-weight:800">designers</span>, and <span style="font-weight:800">artists</span> in order to better understand what are the issues underlying the challenge of learning through interactive music technology. Its immediate is to identify key research questions, suitable computational tools and methods to support this research. Examples of research questions that we would like to discuss during the workshop are: 
+                            </p>
+                            <p>
+                                <ul>
+                                    <li>How can we identify factors influencing skill acquisition in DMIs?</li>
+                                    <li>What are the factors that would facilitate skill acquisition? </li>
+                                    <li>How might already developed skills in traditional instrument apply to DMIs?</li>
+                                    <li>How could we push forward research on sensorimotor learning through DMIs?</li>
+                                    <li>How could we use such technology in applications such as rehabilitation? </li>
+                                    <li>What could be a pedagogy for DMI, helping in transmitting the use of such instruments?</li>
+                                    <li>Which kind of infrastructure would this research require?</li>
+                                </ul>
+                            </p>
+                            <p style="text-align:justify; margin-left: 40px; margin-right: 40px">
+                                This workshop will be held on May 15, prior to the New Interaction for Musical Expression Conference (NIME 2017). It occurs in collaboration with the MOTION workshop (Motor Learning for Music Performance) also on May 15. We will share the morning session of the MOTION workshop, then have a dedicated afternoon on the specific topics mentioned. 
+                            </p>
+                            <p>
+                                This workshop is free.
+                            </p>'
+
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/5.png"
+thumb = "images/thumbs/5.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/4.png"
+thumb = "images/thumbs/4.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/5.png"
+thumb = "images/thumbs/5.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/2.png"
+thumb = "images/thumbs/2.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/3.png"
+thumb = "images/thumbs/3.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
+[[items]]
+title = "Hugrid Theme"
+image = "images/full/1.png"
+thumb = "images/thumbs/1.png"
+alt = "Hugrid Theme"
+description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
+url = "https://github.com/aerohub/hugrid"
