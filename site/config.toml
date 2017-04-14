@@ -13,8 +13,9 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Skill Learning and Interactive Music Technology"
-    subtitle = '<br><span style="font-size:40px;">May 15, 2017</span><br>NIME 2017 Workshop'
+    title = "Skill Learning and <br>Interactive Music Technology"
+    subtitle = '<span style="margin-top:10px;font-size:30px;">A NIME 2017 Workshop</span>
+    <span style="margin-top:0px;font-size:30px;color:#A1335E;font-weight:600;margin-bottom:-30px;">May 15, 2017</span>'
     description = ""
     keywords = "Hugo, Hugo theme, grid theme, portfolio, bookmarks, collection, contacts"
 

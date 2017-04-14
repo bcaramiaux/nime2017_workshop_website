@@ -4,44 +4,79 @@ image = "images/full/1.png"
 thumb = "images/thumbs/1.png"
 alt = "Hugrid Theme"
 description = '
-The fast advances of computer and sensor technologies have led researchers and artists to develop new opportunities for human expression through the design of novel digital musical instruments (DMIs) and interactive sound systems.<br ><br >
-
-One of the most critical challenges faced by designers, researchers and practitioners has been to account for learning expertise through their instruments or systems. It is indeed far from obvious how performers could develop expert skills in novel DMIs or how one could design DMIs that would facilitate complex motor skill learning, but also how interactive sound systems could generally benefit human learning, human development and well-being. 
+The fast advances of computer and sensor technologies have led researchers and artists to develop new opportunities for human expression through the design of novel digital musical instruments (DMIs) and interactive sound systems. One of the most critical challenges faced by designers, researchers and practitioners has been to account for learning expertise through their instruments or systems. It is indeed far from obvious how performers could develop expert skills in novel DMIs or how one could design DMIs that would facilitate complex motor skill learning, but also how interactive sound systems could generally benefit human learning, human development and well-being. 
 
 In this workshop we aim to bring together researchers, designers, and artists in order to better understand what are the issues underlying the challenge of learning through interactive music technology. Its immediate is to identify key research questions, suitable computational tools and methods to support this research.  
 <br > <br >
-Examples of research questions that we would like to discuss during the workshop are: <br >
-- How can we identify factors influencing skill acquisition in DMIs? <br >
-- What are the factors that would facilitate skill acquisition? <br >
-- How might already developed skills in traditional instrument apply to DMIs? <br >
-- How could we push forward research on sensorimotor learning through DMIs? <br >
-- How could we use such technology in applications such as rehabilitation? <br >
-- What could be a pedagogy for DMI, helping in transmitting the use of such instruments? <br >
-- Which kind of infrastructure would this research require? 
-<br >
-<br >
-This workshop will be held on May 15, prior to the New Interaction for Musical Expression Conference (NIME 2017). It occurs in collaboration with the MOTION workshop (Motor Learning for Music Performance) also on May 15. We will share the morning session of the MOTION workshop, then have a dedicated afternoon on the specific topics mentioned. 
-<br >
-This workshop is free.'
+This workshop will be held on <strong>May 15</strong>, prior to the New Interaction for Musical Expression Conference (NIME 2017). It occurs in collaboration with the <a href="www.infomus.org/MOTION2017/">MOTION workshop</a> (Motor Learning for Music Performance) also on May 15. We will share the morning session of the MOTION workshop, then have a dedicated afternoon on the specific topics mentioned. 
+<br ><br >
+This workshop is <strong>free</strong>.'
 
 [[items]]
 title = "Hugrid Theme"
 image = "images/full/2.png"
 thumb = "images/thumbs/2.png"
 alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://github.com/aerohub/hugrid"
+description = '
+Submission deadline: <span style="font-weight:800">April 28th</span>, 2017 (via <a href="mailto:nime2017skilllearning@gmail.com">email</a>)<br >
+Notification of acceptance: <span style="font-weight:800">May 3th</span>, 2017<br >
+Workshop day: <span style="font-weight:800">May 15th</span>, 2017<br ><br>
+We invite participants to propose submissions including an abstract of 500 words or less with the title of the proposed presentation, names and institutional affiliation information for all contributing authors as they should appear in the workshop program, as well as e-mail contact information for the primary/submitting author. We encourage authors to provide a list of supplementary material within their submissions. Such material could be links towards videos, code source, databases, blog posts documenting the relevant research etc.<br ><br>
+Submissions must be sent by April 28th, 2017 to: <a href="mailto:nime2017skilllearning@gmail.com"><span style="font-weight:700 !important">nime2017skilllearning@gmail.com</span></a>
+<br><br>
+<span style="font-weight:800">Topics</span> may include (but are not limited to): <br >
+- Sensori-motor learning in music performance <br >
+- Auditory-motor couplings in music performance <br >
+- Expertise transferability from acoustic to digital musical instruments<br >
+- Supporting novice-to-expert transfer in interactive technology<br >
+- New DMI designs facilitating skill acquisition<br >
+- The role of music in understanding skill acquisition<br >
+- Methodology challenges of assessing skill learning in interactive music technology<br >
+- Applications to creation, pedagogy, rehabilitation among others<br ><br >
+Papers will be reviewed by the organising committee and accepted authors will present at the workshop. At least one author of each accepted position paper must attend the workshop. Based on the submissions, we will create sessions by topic. Within each session, each presenter will have 7 minutes to present their work and 3 minutes of questions. The idea is to keep the presentations short and then discuss collegially the session topic. Each participant will have the opportunity during these discussions to propose their own examples (videos, sounds, articles... ) to the group, adding material to the discussion.<br ><br >
+The workshop is <span style="font-weight:800">free</span>. We will accept participants willing to attend the workshop without having submitting a paper if there is enough seat capacity. In any case, we ask the participants to contact us before the workshop.
+'
 [[items]]
 title = "Hugrid Theme"
 image = "images/full/3.png"
 thumb = "images/thumbs/3.png"
 alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://github.com/aerohub/hugrid"
+description = '
+Introduction <br><br>
+Sessions <br><br>
+General discussion <br><br>
+'
+
 [[items]]
 title = "Hugrid Theme"
 image = "images/full/4.png"
 thumb = "images/thumbs/4.png" 
 alt = "Hugrid Theme"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-url = "https://github.com/aerohub/hugrid"
+description = '
+<span style="font-weight:800; text-transform: none;">Baptiste Caramiaux</span> is a Marie Skłodowska-Curie Research Fellow in Human-Computer Interaction (HCI) at McGill University (Montreal) and IRCAM (Paris). His research focuses on interactive technology for motor skill acquisition involving methods from psychology and machine learning. He holds a PhD from University Pierre & Marie Curie in Paris and IRCAM. <br >
+<p style="margin-top:0px"><a href="http://www.baptistecaramiaux.com">http://www.baptistecaramiaux.com</a><br>
+<a href="http://mim.ircam.fr/">http://mim.ircam.fr</a>
+</p>
+<br>
+<span style="font-weight:800; text-transform: none;">Marcelo Wanderley</span> is Full Professor of Music Technology at McGill University, Canada, and International Chair at Inria Lille, France. His research interests include the design and evaluation of digital musical instruments and the analysis of performer movements. He is a senior member of the ACM and of the IEEE. 
+<p style="margin-top:0px"><a href="http://www.idmil.org">http://www.idmil.org</a></p>
+<br>
+<span style="font-weight:800; text-transform: none;">Frederic Bevilacqua</span> is the head of the Sound Music Movement Interaction team at IRCAM in Paris. His research concerns the modeling and the design of interaction between movement and sound, and the development of gesture-based interactive systems. 
+<p style="margin-top:0px">
+<a href="http://frederic-bevilacqua.net">http://frederic-bevilacqua.net</a><br>
+<a href="http://ismm.ircam.fr">http://ismm.ircam.fr</a>
+</p>
+<br>
+<span style="font-weight:800; text-transform: none;">Andrew McPherson</span> is a Reader (Associate Professor) in the Centre for Digital Music at Queen Mary University of London, where he leads the Augmented Instruments Laboratory. A composer and electrical engineer by training, his research focuses on digital and augmented instruments, embedded audio hardware and the study of performer-instrument interaction. 
+<p style="margin-top:0px">
+<a href="http://www.eecs.qmul.ac.uk/~andrewm">http://www.eecs.qmul.ac.uk/~andrewm</a>
+</p>
+<br>
+<span style="font-weight:800; text-transform: none;">Ana Tajadura-Jiménez</span> is a Ramón y Cajal Research Fellow at Universidad Loyola Andalucía and Honorary Research Associate at University College London Interaction Centre (UCLIC). She has a multidisciplinary background in HCI, cognitive neuroscience and acoustics. Her research focuses on the design of body-centred sound feedback that could serve to improve self-perception, emotion and interaction.
+<p style="margin-top:0px">
+    <a href="https://www.researchgate.net/profile/Ana_Tajadura-Jimenez">https://www.researchgate.net/profile/Ana_Tajadura-Jimenez</a><br>
+    <a href="https://www.uloyola.es/en/research/labs/human-neuroscience-lab/lnh-activity">https://www.uloyola.es/en/research/labs/human-neuroscience-lab/lnh-activity</a><br>
+    <a href="https://www.ucl.ac.uk/silva/uclic/research/project-pages/hearing-body">https://www.ucl.ac.uk/silva/uclic/research/project-pages/hearing-body</a><br>
+    <a href="https://goo.gl/JBTvTO">https://goo.gl/JBTvTO</a>
+</p>
+'
