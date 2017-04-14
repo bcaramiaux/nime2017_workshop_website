@@ -37,6 +37,7 @@
 
 .og-expander {
 	position: absolute;
+	height: 900px;
 	background: #ddd;
 	top: auto;
 	left: 0;
@@ -49,7 +50,7 @@
 
 .og-expander-inner {
 	padding: 50px 30px;
-	height: 100%;
+	height: 200%;
 }
 
 .og-close {
@@ -95,7 +96,7 @@
 }
 
 .og-details {
-	padding: 0 40px 0 20px;
+	padding: 0 40px 0 0px;
 }
 
 .og-fullimg {
@@ -116,33 +117,37 @@
 }
 
 .og-details p {
-	font-weight: 400;
-	font-size: 16px;
-	line-height: 22px;
-	color: #999;
+	margin-top: -50px;
+	padding-right: 50px;
+	font-weight: 300;
+	font-size: 22px;
+	line-height: 36px;
+	color: #666;
+	text-align:justify;
 }
 
 .og-details a {
 	font-weight: 700;
-	font-size: 16px;
+	font-size: 22px;
 	color: #333;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	padding: 10px 20px;
-	border: 3px solid #333;
+	/*text-transform: uppercase;*/
+	/*letter-spacing: 2px;*/
+	/*padding: 10px 20px;*/
+	/*border: 3px solid #333;*/
 	display: inline-block;
-	margin: 30px 0 0;
-	outline: none;
+	/*margin: 30px 0 0;*/
+	/*outline: none;*/
+	text-decoration: underline;
 }
 
 .og-details a::before {
-	content: '\2192';
-	display: inline-block;
-	margin-right: 10px;
+	/*content: '\2192';*/
+	/*display: inline-block;*/
+	/*margin-right: 10px;*/
 }
 
 .og-details a:hover {
-	border-color: #999;
+	/*border-color: #999;*/
 	color: #999;
 }
 
