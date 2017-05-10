@@ -43,9 +43,12 @@ image = "images/full/3.png"
 thumb = "images/thumbs/3.png"
 alt = "Hugrid Theme"
 description = '
-Introduction <br><br>
+<div>
+<div style="width:100px; float:left">12:00pm - 12:10pm</div><div style="width:400px">Welcome</div>
+<div style="clear:left;"></div>
 Sessions <br><br>
 General discussion <br><br>
+</div>
 '
 
 [[items]]
