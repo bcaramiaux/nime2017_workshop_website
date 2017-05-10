@@ -45,34 +45,47 @@ alt = "Hugrid Theme"
 description = '
 <div>
 
-<div style="width:200px; float:left; font-weight:800;">12:00pm - 12:10pm</div><div style="width:800px; font-weight:800;">Welcome</div>
+<div><span style="width:800px; font-weight:800; margin-bottom:10px; text-transform:uppercase;">Welcome</span> | 12:00 - 12:10</div>
 <div style="clear:left;"></div>
 
-<div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:800px; font-weight:800;">Short presentations</div>
-<div style="clear:left;"></div>
+<div><span style="width:800px; font-weight:800; margin-bottom:10px; text-transform:uppercase;">Short presentations</span> | 12:10 - 13:30</div>
 
-<span style="font-style:italic;">“Understanding music skill acquisition through performance variability”</span><br>
-<span style="margin-bottom:20px;">Baptiste Caramiaux, McGill University and IRCAM </span><br>
-<span style="font-style:italic;">“Exploring Skill Acquisition in End-User Mapping Strategies for Mid-Air Music Interaction”</span><br>
-<span style="margin-bottom:20px;">Brown</span><br>
-<span style="font-style:italic;">“From a new instrument to the virtuosos - two short examples and a lot of questions”</span><br>
-<span style="margin-bottom:20px;">Hofman</span><br>
-<span style="font-style:italic;">“Technology-based Learning in Higher Education Piano Studios”</span><br>
-<span style="margin-bottom:20px;">Hammond</span><br>
-<span style="font-style:italic;">“Simple Mechanisms for Skill Acquisition in the Performance of Digital Sound”</span><br>
-<span style="margin-bottom:20px;">Keenan</span><br>
-<span style="font-style:italic;">“Musically-informed sonification to support physical activity”</span><br>
-<span style="margin-bottom:20px;">Newbold</span><br>
-<span style="font-style:italic;">“Body-centred auditory feedback for enhancing body perception, movement dynamics and emotional state”</span><br>
-<span style="margin-bottom:20px;">Tajadura-Jiménez</span><br>
-<span style="font-style:italic;">“Designing digital musical instruments to repurpose existing expertise”</span><br>
-<span style="margin-bottom:20px;">McPherson</span><br>
-<span style="font-style:italic;">TBA</span><br>
-<span style="margin-bottom:20px;">Wanderley</span><br>
-<span style="font-style:italic;">TBA</span><br>
-<span style="margin-bottom:20px;">Bevilacqua</span><br>
 
-<div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:800px; font-weight:800;">Group discussions</div>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Understanding music skill acquisition through performance variability</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Baptiste Caramiaux</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Exploring Skill Acquisition in End-User Mapping Strategies for Mid-Air Music Interaction</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Dom Brown</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– From a new instrument to the virtuosos - two short examples and a lot of questions</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Alex Hofman</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Technology-based Learning in Higher Education Piano Studios</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Luciana Hammond</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Simple Mechanisms for Skill Acquisition in the Performance of Digital Sound</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Fiona Keenan</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Musically-informed sonification to support physical activity</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Joe Newbold</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Body-centred auditory feedback for enhancing body perception, movement dynamics and emotional state</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Ana Tajadura-Jiménez</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– Designing digital musical instruments to repurpose existing expertise</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Andrew McPherson</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– TBA</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Marcelo Wanderley</div><br>
+<div style="margin-bottom:-36px; font-size:15px; font-style:italic;">– TBA</div><br>
+<div style="margin-bottom:-32px;font-size:15px;"> Frédéric Bevilacqua</div><br>
+
+<div style="margin-bottom:-12px;">&nbsp;</div>
+
+<div><span style="width:800px; font-weight:800; margin-bottom:10px; text-transform:uppercase;">Group discussions</span> | 13:40 - 14:10</div>
+
+
+<div style="margin-bottom:-32px;font-size:15px;">Group discussion 1: <b>Understanding</b> / <b>Assessing</b> skill acquisition </div><br>
+<div style="margin-bottom:-32px;font-size:15px;">Group discussion 2: <b>Facilitating</b> / <b>Enhancing</b> skill acquisition </div><br>
+
+<div style="margin-bottom:-12px;">&nbsp;</div>
+
+<div><span style="width:800px; font-weight:800; margin-bottom:10px; text-transform:uppercase;">Wrap-up</span> | 14:10 - 14:40</div>
+
+<div><span style="width:800px; font-weight:800; margin-bottom:10px; text-transform:uppercase;">General discussion</span> | 14:40 - 15:00</div>
+
 <div style="clear:left;"></div>
 </div>
 '
