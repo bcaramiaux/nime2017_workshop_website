@@ -51,26 +51,26 @@ description = '
 <div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:800px; font-weight:800;">Short presentations</div>
 <div style="clear:left;"></div>
 
-<div style="width:200px; float:left;">Caramiaux</div><div style="width:800px;">“Understanding music skill acquisition through performance variability”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Brown</div><div style="width:800px;">“Exploring Skill Acquisition in End-User Mapping Strategies for Mid-Air Music Interaction”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Hofman</div><div style="width:800px;">“From a new instrument to the virtuosos - two short examples and a lot of questions”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Hammond</div><div style="width:800px;">“Technology-based Learning in Higher Education Piano Studios”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Keenan</div><div style="width:800px;">“Simple Mechanisms for Skill Acquisition in the Performance of Digital Sound”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Newbold</div><div style="width:800px;">“Musically-informed sonification to support physical activity”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Tajadura-Jiménez</div><div style="width:800px;">“Body-centred auditory feedback for enhancing body perception, movement dynamics and emotional state”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">McPherson</div><div style="width:800px;">“Designing digital musical instruments to repurpose existing expertise”</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Wanderley</div><div style="width:800px;">TBA</div>
-<div style="clear:left;"></div>
-<div style="width:200px; float:left;">Bevilacqua, Frédéric</div><div style="width:800px;">TBA</div>
-<div style="clear:left;"></div>
+<span style="font-style:italic;">“Understanding music skill acquisition through performance variability”</span><br>
+<span style="margin-bottom:20px;">Baptiste Caramiaux, McGill University and IRCAM </span><br>
+<span style="font-style:italic;">“Exploring Skill Acquisition in End-User Mapping Strategies for Mid-Air Music Interaction”</span><br>
+<span style="margin-bottom:20px;">Brown</span><br>
+<span style="font-style:italic;">“From a new instrument to the virtuosos - two short examples and a lot of questions”</span><br>
+<span style="margin-bottom:20px;">Hofman</span><br>
+<span style="font-style:italic;">“Technology-based Learning in Higher Education Piano Studios”</span><br>
+<span style="margin-bottom:20px;">Hammond</span><br>
+<span style="font-style:italic;">“Simple Mechanisms for Skill Acquisition in the Performance of Digital Sound”</span><br>
+<span style="margin-bottom:20px;">Keenan</span><br>
+<span style="font-style:italic;">“Musically-informed sonification to support physical activity”</span><br>
+<span style="margin-bottom:20px;">Newbold</span><br>
+<span style="font-style:italic;">“Body-centred auditory feedback for enhancing body perception, movement dynamics and emotional state”</span><br>
+<span style="margin-bottom:20px;">Tajadura-Jiménez</span><br>
+<span style="font-style:italic;">“Designing digital musical instruments to repurpose existing expertise”</span><br>
+<span style="margin-bottom:20px;">McPherson</span><br>
+<span style="font-style:italic;">TBA</span><br>
+<span style="margin-bottom:20px;">Wanderley</span><br>
+<span style="font-style:italic;">TBA</span><br>
+<span style="margin-bottom:20px;">Bevilacqua</span><br>
 
 <div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:800px; font-weight:800;">Group discussions</div>
 <div style="clear:left;"></div>
