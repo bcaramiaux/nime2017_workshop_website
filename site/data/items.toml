@@ -44,10 +44,36 @@ thumb = "images/thumbs/3.png"
 alt = "Hugrid Theme"
 description = '
 <div>
-<div style="width:100px; float:left">12:00pm - 12:10pm</div><div style="width:400px">Welcome</div>
+
+<div style="width:200px; float:left; font-weight:800;">12:00pm - 12:10pm</div><div style="width:600px; font-weight:800;">Welcome</div>
 <div style="clear:left;"></div>
-Sessions <br><br>
-General discussion <br><br>
+
+<div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:600px; font-weight:800;">Short presentations</div>
+<div style="clear:left;"></div>
+
+<div style="width:200px; float:left;">Caramiaux</div><div style="width:600px;">TBA</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Brown</div><div style="width:600px;">“Exploring Skill Acquisition in End-User Mapping Strategies for Mid-Air Music Interaction”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Hofman</div><div style="width:600px;">“From a new instrument to the virtuosos - two short examples and a lot of questions”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Hammond</div><div style="width:600px;">“Technology-based Learning in Higher Education Piano Studios”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Keenan</div><div style="width:600px;">“Simple Mechanisms for Skill Acquisition in the Performance of Digital Sound”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Newbold</div><div style="width:600px;">“Musically-informed sonification to support physical activity”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Tajadura-Jiménez</div><div style="width:600px;">“Body-centred auditory feedback for enhancing body perception, movement dynamics and emotional state”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">McPherson</div><div style="width:600px;">“Designing digital musical instruments to repurpose existing expertise”</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Wanderley</div><div style="width:600px;">TBA</div>
+<div style="clear:left;"></div>
+<div style="width:200px; float:left;">Bevilacqua, Frédéric</div><div style="width:600px;">TBA</div>
+<div style="clear:left;"></div>
+
+<div style="width:200px; float:left; font-weight:800;">12:10pm - 1:30pm</div><div style="width:600px; font-weight:800;">Group discussions</div>
+<div style="clear:left;"></div>
 </div>
 '
 
